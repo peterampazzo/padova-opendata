@@ -11,3 +11,4 @@ Lista di tutti gli open data della città di Padova
 Senza fonte:
 * [Stalli Carsharing](http://www.carsharingpadova.it/mappa-stalli)
 * [Realtime Tram SIR1 e Percorso linee autobus](http://www.fsbusitaliaveneto.it/index.php/offerta/dove-sono-i-mezzi)
+* [Cartografia Online](http://cartografia.comune.padova.it/viewer/)
