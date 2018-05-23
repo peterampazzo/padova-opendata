@@ -1,7 +1,22 @@
 # OpenData Padova
 _In aggiornamento_
 
-Lista di tutti gli open data della città di Padova
+Ciao!
+The aim of this repo is to contained more and more open-source datasets of the City of Padova.
+This project started at the begging of 2018 and is maintained by Pietro Rampazzo.
+
+The list is keep growing!
+
+Can't find a dataset? Or just want to say hi? Ping [@peterampazzo](https://twitter.com/peterampazzo) on twitter ;)
+
+---
+For every dataset you can find:
+* Name
+* Licence
+* Source
+* Format
+
+---
 
 1. [Arpav](http://www.arpa.veneto.it/dati-ambientali/open-data/dati-arpav-in-formato-xml) (xml/json)
 2. [Bikesharing - Goodbike](https://api.citybik.es/v2/networks/goodbike) (json)
