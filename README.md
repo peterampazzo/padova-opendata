@@ -20,9 +20,9 @@ Can't find a dataset? Or just want to say hi? Ping [@peterampazzo](https://twitt
 
 | Name  | Source | Format | Licence | Link |
 | ----- | ------ | ------ | ------- | ---- |
-| Bike sharing - Goodbike | citybik.es | JSON | ... | https://api.citybik.es/v2/networks/goodbike |
-| Varchi ZTL + Corsia Riservata + Autocarri | [Corpo di Polizia Locale di Padova](http://www.polizialocalepadova.it/index.php/varchi-ztl) | GeoJSON (generated) | CC BY 2.5 IT | https://github.com/peterampazzo/OpenData-Padova/blob/master/geojson/varchi.geojson |
-| TRED | [Corpo di Polizia Locale di Padova](http://www.polizialocalepadova.it/index.php/varchi-ztl) | GeoJSON (generated) | CC BY 2.5 IT | https://github.com/peterampazzo/OpenData-Padova/blob/master/geojson/t-red.geojson |
+| Bike sharing - Goodbike | citybik.es | JSON | [citybike.es TOS](https://api.citybik.es/v2/) | [Realtime JSON](https://api.citybik.es/v2/networks/goodbike) |
+| Varchi ZTL + Corsia Riservata + Autocarri | Corpo di Polizia Locale di Padova | GeoJSON (generated) | CC BY 2.5 IT | * [JSON](https://github.com/peterampazzo/OpenData-Padova/blob/master/geojson/varchi.geojson) * [Source](http://www.polizialocalepadova.it/index.php/varchi-ztl) |
+| TRED | Corpo di Polizia Locale di Padova | GeoJSON (generated) | CC BY 2.5 IT | * [JSON](https://github.com/peterampazzo/OpenData-Padova/blob/master/geojson/t-red.geojson) * [Source](http://www.polizialocalepadova.it/index.php/varchi-ztl) |
 
 ### Istruzione, cultura e sport
 1. [Associazioni Nonprofit](https://github.com/peterampazzo/OpenData-Padova/blob/master/json/associazioni.json) (rilasciato dal [Comune di Padova](http://www.padovanet.it/noprofit) con licenza CC BY-SA 2.5 IT) (json)
