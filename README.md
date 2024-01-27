@@ -15,6 +15,9 @@ For every dataset you can find:
 
 Can't find a dataset? Or just want to say hi? Ping [@peterampazzo](https://twitter.com/peterampazzo) on Twitter ;)
 
+_Aggiornamento 2024_
+- [✅] **Fermate Busitalia** by [Giasin](https://github.com/Giasinit)
+      
 ---
 ### Trasporti e Mobilità
 
@@ -23,6 +26,7 @@ Can't find a dataset? Or just want to say hi? Ping [@peterampazzo](https://twitt
 | Bike sharing - Goodbike | citybik.es | JSON | [citybike.es TOS](https://api.citybik.es/v2/) | [Realtime JSON](https://api.citybik.es/v2/networks/goodbike) |
 | Varchi ZTL + Corsia Riservata + Autocarri | Corpo di Polizia Locale di Padova | GeoJSON (generated) | CC BY 2.5 IT | [JSON](https://github.com/peterampazzo/OpenData-Padova/blob/master/geojson/varchi.geojson) — [Source](http://www.polizialocalepadova.it/index.php/varchi-ztl) |
 | TRED | Corpo di Polizia Locale di Padova | GeoJSON (generated) | CC BY 2.5 IT | [JSON](https://github.com/peterampazzo/OpenData-Padova/blob/master/geojson/t-red.geojson) — [Source](http://www.polizialocalepadova.it/index.php/varchi-ztl) |
+| Fermate Busitalia(ex APS Mobilità) | MooneyGo(ex myCicero) | JSON - GeoJSON (generated) | -- | [JSON](/json/fermate-padova.json) — [GEOJSON](/json/fermate-padova.json) - [JSON Rovigo/Vicenza/Padova](/json/fermate-padova-rovigo.json) — [Source](https://www.mycicero.it/BUSITALIAVENETO-PD/TPWebPortal/it) |
 
 ### Istruzione, cultura e sport
 1. [Associazioni Nonprofit](https://github.com/peterampazzo/OpenData-Padova/blob/master/json/associazioni.json) (rilasciato dal [Comune di Padova](http://www.padovanet.it/noprofit) con licenza CC BY-SA 2.5 IT) (json)
